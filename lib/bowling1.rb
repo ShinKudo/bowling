@@ -10,4 +10,7 @@ class Bowling
     def total_score
         @total_score
     end
+
+    def calc_score
+    end
 end
