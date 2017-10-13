@@ -1,5 +1,5 @@
 require "spec_helper"
-require "cycle2"
+require "bowling2"
 
 describe "ボウリングのスコア計算" do
   # インスタンスの生成を共通化
